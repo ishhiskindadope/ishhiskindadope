@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Ishu</h1>
+<h1 align="center">Hii, I'm Ishu🩷</h1>
 <h3 align="center">Tryna be a good software engineer yk ..</h3>
 
 - 🌱 I’m currently learning **Computer science and data science**
